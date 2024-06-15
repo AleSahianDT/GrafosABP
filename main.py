@@ -1,6 +1,5 @@
-#import networkx as nx
-#import matplotlib.pyplot as plt
-# (PORFAVOR DESCOMENTAR ESTA PARTE DEL CODIGO)
+import networkx as nx
+import matplotlib.pyplot as plt
 
 # Definir nombres de las ciudades
 cities = ["Tulcán", "Ibarra", "Quito", "Latacunga", "Ambato", "Guaranda", "Riobamba", "Azogues", "Cuenca", "Esmeraldas",
